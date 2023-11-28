@@ -19,8 +19,8 @@ NEWSPIDER_MODULE = "cricket_data_scrapper.spiders"
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
-FEED_FORMAT = "json"
-FEED_URI = "cricket_data.json"
+FEED_FORMAT = "csv"
+FEED_URI = "cricket_data.csv"
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
