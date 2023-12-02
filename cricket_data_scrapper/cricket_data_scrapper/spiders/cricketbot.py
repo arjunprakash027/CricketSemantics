@@ -2,7 +2,7 @@ import scrapy
 from icecream import ic
 
 
-ic.disable()
+#ic.disable()
 class CricketbotSpider(scrapy.Spider):
     name = "cricketbot"
     allowed_domains = ["www.hindustantimes.com"]
