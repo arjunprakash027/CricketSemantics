@@ -5,7 +5,7 @@ import faiss
 from faiss import read_index
 from sentence_transformers import SentenceTransformer
 encoder = SentenceTransformer('multi-qa-mpnet-base-dot-v1')
-index = read_index("cricketSemanticSearch.index")
+index = read_index("/mnt/d/projects/large_projects/CricketSemantics/search_engine/cricketSemanticSearch.index")
 df = pd.read_csv("/mnt/d/projects/large_projects/CricketSemantics/cricket_data_scrapper/cricket_data.csv")
 
 def search(text):
