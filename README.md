@@ -7,8 +7,8 @@ CricketSemantics is a NLP project that includes
 
 - Scrapped Data from cricbuzz 
 - Used Scrapy to scrape the data
-- Data [here] (https://github.com/arjunprakash027/CricketSemantics/blob/main/cricket_data_scrapper/cricket_data.csv)
-- full blog on how to do this [here] (https://medium.com/@arjunprakash027/scrapping-cricket-data-using-scrapy-9a58d7eeb13b)
+- Data [here](https://github.com/arjunprakash027/CricketSemantics/blob/main/cricket_data_scrapper/cricket_data.csv)
+- full blog on how to do this [here](https://medium.com/@arjunprakash027/scrapping-cricket-data-using-scrapy-9a58d7eeb13b)
 
 ## Commentary Search Engine
 
@@ -30,5 +30,5 @@ CricketSemantics is a NLP project that includes
  ```
 
  ### Examples
- 
+
 ![image](https://github.com/arjunprakash027/CricketSemantics/assets/72484657/8c4e5289-11d2-4390-ad66-901a2fd378e4)
