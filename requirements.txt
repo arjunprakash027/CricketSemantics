@@ -1,0 +1,7 @@
+scrapy
+icecream
+faiss
+sentence_transformers
+numpy 
+pandas
+
