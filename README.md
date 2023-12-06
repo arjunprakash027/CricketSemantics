@@ -31,3 +31,4 @@ CricketSemantics is a NLP project that includes
 
  ### Examples
  
+![image](https://github.com/arjunprakash027/CricketSemantics/assets/72484657/8c4e5289-11d2-4390-ad66-901a2fd378e4)
