@@ -43,3 +43,6 @@ CricketSemantics is a NLP project that includes
 - Used matplotlib to create a scatterplot to visualize the clusters.
 
 ### Examples
+
+![image](https://github.com/arjunprakash027/CricketSemantics/assets/72484657/e0ee82d9-18cf-44e9-815c-a10cbf2315af)
+
