@@ -2,6 +2,7 @@
 CricketSemantics is a NLP project that includes
 - A Cricket commentary dataset and scrapping engine to scrape data from cricbuzz
 - A Semantic Search Engine built using SentenceTransformers and FAISS.
+- A Doc2Vec sentence embeddings and KMeans Cluster (n=5)
 
 ## Data Scrapping 
 
